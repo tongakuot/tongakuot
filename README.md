@@ -6,8 +6,7 @@ I enjoy leveraging data science and machine learning capacities to solve real-wo
 
 I was awarded the HSC Mercy Award in 2020 for my work at LifePoint Health and my contribution to humanity through my work at the Jonglei Institute of Technology. I love learning new skills. Below are my technical skills:
 
-- Proficient in R & R Shiny
-- Good in Python
+- Proficient in R, R Shiny, and Python
 - Good in PowerBI & Cognos
 - RStudio, Jupiter Notebook, Microsoft (Word, Excel, PowerPoint), Spyder, Django, WordPress, HTML, CSS, PyCharm, Visual Studio Code
 - Working knowledge of SQL

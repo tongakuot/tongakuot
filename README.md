@@ -16,9 +16,9 @@ I was awarded the HSC Mercy Award in 2020 for my work at LifePoint Health and my
 - 🔭 I’m currently working on dash application.
 - 🌱 I’m currently learning NLP, Dash & Shiny.
 - 👯 I’m looking to collaborate on data science, Distill for R, machine learning, & teaching.
-- 🤔 I’m looking for help with NLP & Machine Learning.
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🤔 I’m looking for help with NLP & machine learning.
+- 💬 Ask me about data science, statistics, mathematics, R, and Python.
+- 📫 How to reach me: Twitter - @tongakuot; LinkedIn - @tongakuot.
 - 😄 Pronouns: He/his/him
 - ⚡ Fun fact: learning mathematics and statistics with Python.
 

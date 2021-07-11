@@ -21,3 +21,4 @@ I was awarded the HSC Mercy Award in 2020 for my work at LifePoint Health and my
 - 😄 Pronouns: He/his/him
 - ⚡ Fun fact: learning mathematics and statistics with Python.
 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>

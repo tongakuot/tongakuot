@@ -21,4 +21,5 @@ I was awarded the HSC Mercy Award in 2020 for my work at LifePoint Health and my
 - 😄 Pronouns: He/his/him
 - ⚡ Fun fact: learning mathematics and statistics with Python.
 
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="tongakuot" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/tongakuot?trk=profile-badge">Alier Reng, MBA, M.S.</a></div>
+              

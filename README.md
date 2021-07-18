@@ -12,8 +12,8 @@ I was awarded the HSC Mercy Award in 2020 for my work at LifePoint Health and my
 - Working knowledge of SQL
 
 
-- 🔭 I’m currently working on dash application.
-- 🌱 I’m currently learning NLP, Dash & Shiny.
+- 🔭 I’m currently working on a Web Scraping project.
+- 🌱 I’m currently learning NLP.
 - 👯 I’m looking to collaborate on data science, Distill for R, machine learning, & teaching.
 - 🤔 I’m looking for help with NLP & machine learning.
 - 💬 Ask me about data science, statistics, mathematics, R, and Python.

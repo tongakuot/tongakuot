@@ -18,7 +18,7 @@ I was awarded the HSC Mercy Award in 2020 for my work at LifePoint Health and my
 - 🤔 I’m looking for help with NLP & machine learning.
 - 💬 Ask me about data science, statistics, mathematics, R, and Python.
 - 📫 How to reach me: Twitter - @tongakuot; LinkedIn - @tongakuot.
-- 😄 Pronouns: He/his/him
+- 😄 Pronouns: He/him/his
 - ⚡ Fun fact: learning mathematics and statistics with Python.
 
               

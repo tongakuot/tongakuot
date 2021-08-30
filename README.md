@@ -15,11 +15,16 @@ I was awarded the HSC Mercy Award in 2020 for my work at LifePoint Health and my
 - 🔭 I love data science, deep learning, R Shiny, statistics, mathematics, and teaching.
 - 🌱 I’m currently developing my first course in R (Getting Started in R).
 - 👯 I’m looking to collaborate on data science, deep learning, & teaching.
-- 🤔 I’m looking for help with NLP & deep learning.
 - 💬 Ask me about data science, statistics, mathematics, R, and Python.
-- :earth_africa: thes
 - 📫 How to reach me: Twitter - @tongakuot; LinkedIn - @tongakuot.
+- - 📫 Get in touch: 
+  - :bulb: [Articles & tutorials](https://jongleiinstitute.com)
+  - :bulb: [Articles & tutorials](https;//alierwaidatascience.com)
+  - :pencil2: [Daily Tips](https://mathdatasimplified.com/)
+  - :office: [LinkedIn](https://www.linkedin.com/in/tongakuot/)
+  - :office: [Twitter](https://www.twitter.com/in/tongakuot/)
+  - :speaker: [YouTube](https://www.youtube.com/channel/UCT3PkcWAD0MC3SpB9Wi0xnw)
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: learning mathematics and statistics with Python.
+- ⚡ Fun fact: web development, learning mathematics and statistics with Python.
 
               

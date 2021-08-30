@@ -24,4 +24,4 @@ I enjoy leveraging data science and machine learning capacities to solve real-wo
 
 <a target="_blank" href="https://jongleiinstitute.com/data-science/2021/07/14/areng/data-wrangling-with-pyspark/1">
   
-<a target="_blank" href="https://jongleiinstitute.com/data-science/2021/07/20/areng/marrying-r-with-python-1/0"><
+<a target="_blank" href="https://jongleiinstitute.com/data-science/2021/07/20/areng/marrying-r-with-python-1/0">

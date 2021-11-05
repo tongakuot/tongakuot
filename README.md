@@ -8,7 +8,7 @@ My name is Alier Reng.
   - :black_nib: [Free Data Science Courses](https://jongleiinstitute.com)
   - :bulb: [Articles & tutorials](https;//alierwaidatascience.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/tongakuot/)
-  - #0A66C2
+  - https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
   - :office: [Twitter](https://www.twitter.com/in/tongakuot/)
   - :speaking_head: [YouTube](https://www.youtube.com/channel/UCT3PkcWAD0MC3SpB9Wi0xnw)
 - 😄 Pronouns: He/him/his
@@ -19,5 +19,4 @@ My name is Alier Reng.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tongakuot)](https://github.com/tongakuot/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tongakuot&repo=github-readme-stats)](https://github.com/tongakuot/github-readme-stats)
 

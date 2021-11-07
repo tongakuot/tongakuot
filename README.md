@@ -1,5 +1,6 @@
 ### Hello! 👋 
-My name is Alier Reng.
+
+I am Alier Reng.
 
 - :open_book: I love data science, deep learning, NLP, R Shiny, statistics, mathematics, and teaching.
 - 🌱 I’m currently developing my first course in R (Getting Started in R).

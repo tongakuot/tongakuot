@@ -9,12 +9,14 @@ My name is Alier Reng.
   - :bulb: [Articles & tutorials](https;//alierwaidatascience.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/tongakuot/)
   - :office: [Twitter](https://www.twitter.com/in/tongakuot/)
-  ![Twitter Follow](https://img.shields.io/twitter/follow/tongakuot?color=%231DA1F2&logo=twitter&style=for-the-badge)
   - :speaking_head: [YouTube](https://www.youtube.com/channel/UCT3PkcWAD0MC3SpB9Wi0xnw)
 - 😄 Pronouns: He/him/his
-- ⚡ Fun fact: web development, learning mathematics and statistics with Python.
+Connect with Me on:
+![Twitter Follow](https://img.shields.io/twitter/follow/tongakuot?color=%231DA1F2&logo=twitter&style=for-the-badge)
+![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCT3PkcWAD0MC3SpB9Wi0xnw?color=%23FF0000&logo=youtube&logoColor=%23FF0000&style=for-the-badge)
 
-<img src="{https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white}" />
+
+- ⚡ Fun fact: web development, learning mathematics and statistics with Python.
               
 [![Alier's github stats](https://github-readme-stats.vercel.app/api?username=tongakuot&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 

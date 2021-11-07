@@ -9,6 +9,7 @@ My name is Alier Reng.
   - :bulb: [Articles & tutorials](https;//alierwaidatascience.com)
   - :office: [LinkedIn](https://www.linkedin.com/in/tongakuot/)
   - :office: [Twitter](https://www.twitter.com/in/tongakuot/)
+  ![Twitter Follow](https://img.shields.io/twitter/follow/tongakuot?color=%231DA1F2&logo=twitter&style=for-the-badge)
   - :speaking_head: [YouTube](https://www.youtube.com/channel/UCT3PkcWAD0MC3SpB9Wi0xnw)
 - 😄 Pronouns: He/him/his
 - ⚡ Fun fact: web development, learning mathematics and statistics with Python.

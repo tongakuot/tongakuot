@@ -12,7 +12,6 @@ Connect with Me on:
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/tongakuot?color=%231DA1F2&logo=twitter&style=for-the-badge)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCT3PkcWAD0MC3SpB9Wi0xnw?color=%23FF0000&logo=youtube&logoColor=%23FF0000&style=for-the-badge)
-![LinkedIn](https://img.shields.io/follow/tongakuot/badge/linkedin-%230077B5&style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 - ⚡ Fun fact: web development, learning mathematics and statistics with Python.

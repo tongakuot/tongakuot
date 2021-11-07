@@ -15,7 +15,7 @@ My name is Alier Reng.
 Connect with Me on:
 <br>
 
-![LinkedIn Follow](https://img.shields.io/linkedin/follow/tongakuot?color=%#0A66C2&logo=linkedin&style=for-the-badge)
+![LinkedIn Follow](https://img.shields.io/linkedin/follow/tongakuot?color=%230A66C2&logo=linkedin&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/tongakuot?color=%231DA1F2&logo=twitter&style=for-the-badge)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCT3PkcWAD0MC3SpB9Wi0xnw?color=%23FF0000&logo=youtube&logoColor=%23FF0000&style=for-the-badge)
 

@@ -11,6 +11,7 @@ My name is Alier Reng.
   - :office: [Twitter](https://www.twitter.com/in/tongakuot/)
   - :speaking_head: [YouTube](https://www.youtube.com/channel/UCT3PkcWAD0MC3SpB9Wi0xnw)
 - 😄 Pronouns: He/him/his
+<br> <br>
 Connect with Me on:
 ![Twitter Follow](https://img.shields.io/twitter/follow/tongakuot?color=%231DA1F2&logo=twitter&style=for-the-badge)
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCT3PkcWAD0MC3SpB9Wi0xnw?color=%23FF0000&logo=youtube&logoColor=%23FF0000&style=for-the-badge)

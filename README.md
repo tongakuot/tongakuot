@@ -1,19 +1,21 @@
-<h1 align="center">Hi 👋, I'm Alier Reng!</h1>
-<h3 align="center">Data scientist, statistician & educator.</h3>
+<h1 align="left">Hi 👋, I'm Alier Reng!</h1>
+<h3 align="left">Data scientist, statistician & educator.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tongakuot&label=Profile%20views&color=0e75b6&style=flat" alt="tongakuot" /> </p>
 
-- 🔭 I’m currently recording **my first R course**
+- 🔭 I’m currently recording [my first R course](https://jongleiinstitute.com/all-courses/data-analyst-with-r/getting-started-in-r/.)
 
-- 🌱 I’m currently learning **deep learning and NLP**
+- 🌱 I’m currently learning **deep learning and NLP.**
 
-- 👯 I’m looking to collaborate on **data science, deep learning & teaching**
+- 👯 I’m looking to collaborate on [data science, deep learning & teaching](https://jongleiinstitute.com/.)
 
-- 🤝 I’m looking for help with **Django**
+- 🤝 I’m looking for help with **Django.**
 
 - 📝 I regularly write articles on [jongleiinstitute.com](jongleiinstitute.com)
 
-- 💬 Ask me about **statistics, data science, R and mathematics**
+- 💬 Ask me about **statistics, data science, R and mathematics.**
+
+- 📫 How to reach me **alier@jongleiinstitute.com**
 
 - 📄 Know about my experiences [https://github.com/tongakuot/areng_cv/blob/main/Alier%20Reng%E2%80%99s%20resume.pdf](https://github.com/tongakuot/areng_cv/blob/main/Alier%20Reng%E2%80%99s%20resume.pdf)
 

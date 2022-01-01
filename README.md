@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **statistics, data science, R and mathematics**
 
-- 📫 How to reach me **alier@jongleiinstitute.com**
+- 📫 How to reach me **areng@jongleiinstitute.com**
 
 - 📄 Know about my experiences [Resume](https://github.com/tongakuot/areng_cv/blob/main/Alier%20Reng%E2%80%99s%20resume.pdf)
 

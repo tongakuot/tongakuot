@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Alier Reng!</h1>
 <h3 align="left">Data scientist, statistician & educator</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tongakuot&label=Profile%20views&color=0e75b6&style=flat" alt="tongakuot" /> </p>
 
 - 🔭 I’m currently recording [my first R course](https://jongleiinstitute.com/all-courses/data-analyst-with-r/getting-started-in-r/)
 

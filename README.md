@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **areng@jongleiinstitute.com**
 
-- 📄 Know about my experiences [Resume](https://github.com/tongakuot/areng_cv/blob/main/Alier%20Reng%E2%80%99s%20resume.pdf)
+- 📄 Know about my experiences: [Resume](https://github.com/tongakuot/areng_cv/blob/main/Alier%20Reng%E2%80%99s%20resume.pdf)
 
 - ⚡ Fun fact **web development, learning mathematics and statistics with Python**
 

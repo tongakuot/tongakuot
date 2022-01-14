@@ -12,7 +12,7 @@
 
 - 📝 I regularly write articles on [jongleiinstitute.com](jongleiinstitute.com)
 
-- 💬 Ask me about **statistics, data science, R and mathematics**
+- 💬 Ask me about **statistics, data science, R Shiny, R, Python, and mathematics**
 
 - 📫 How to reach me **areng@jongleiinstitute.com**
 

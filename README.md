@@ -10,11 +10,11 @@
 
 - 🤝 I’m looking for help with **Django**
 
-- 📝 I regularly write articles on [jongleiinstitute.com](jongleiinstitute.com)
+- 📝 I regularly write articles on [jongleiinstitute.com](jongleiinstitute.com) and [Cush Analytics.com](cushanalytics.com)
 
 - 💬 Ask me about **statistics, data science, R Shiny, R, Python, and mathematics**
 
-- 📫 How to reach me **areng@jongleiinstitute.com**
+- 📫 How to reach me **alier.reng@cushanalytics.com**
 
 - 📄 Know about my experiences: [Resume](https://github.com/tongakuot/areng_cv/blob/main/Alier%20Reng%E2%80%99s%20resume.pdf)
 

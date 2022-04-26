@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tongakuot&show_icons=true&locale=en&layout=compact" alt="tongakuot" /></p>
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tongakuot&repo=github-readme-stats)](https://github.com/tongakuot/github-readme-stats)
+

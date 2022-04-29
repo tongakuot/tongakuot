@@ -33,4 +33,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tongakuot&show_icons=true&locale=en&layout=compact" alt="tongakuot" /></p>
 
-![Alier's GitHub stats](https://github-readme-stats.vercel.app/api?username=tongakuot&show_icons=true&theme=highcontrast)
+![Alier's GitHub stats](https://github-readme-stats.vercel.app/api?username=tongakuot&show_icons=true&theme=tokyonight)

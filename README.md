@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **statistics, data science, R Shiny, R, Python, and mathematics**
 
-- 📫 How to reach me **alier@jongleiinstitute.com**
+- 📫 How to reach me **areng@cushanalytics.com.com**
 
 - 📄 Know about my experiences: [Resume](https://github.com/tongakuot/areng_cv/blob/main/Alier%20Reng%E2%80%99s%20resume.pdf)
 

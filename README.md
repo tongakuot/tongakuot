@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently recording [my first R course](https://jongleiinstitute.com/all-courses/data-analyst-with-r/getting-started-in-r/)
 
-- 🌱 I’m currently learning **pandas method chaining and deep learning.**
+- 🌱 I’m currently learning **pandas method chaining and differential equations.**
 
 - 👯 I’m looking to collaborate on [data science, deep learning & teaching](https://jongleiinstitute.com/)
 

@@ -25,7 +25,7 @@
 <a href="https://twitter.com/tongakuot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tongakuot" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/tongakuot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tongakuot" height="30" width="40" /></a>
 <a href="https://kaggle.com/alierreng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alierreng" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/uct3pkcwad0mc3spb9wi0xnw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uct3pkcwad0mc3spb9wi0xnw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCWmRRNbHLNtbb13Hi1ucsFA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uct3pkcwad0mc3spb9wi0xnw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

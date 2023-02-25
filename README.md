@@ -10,7 +10,7 @@
 
 - 🤝 I’m looking for help with **Django**
 
-- 📝 I regularly write articles on [jongleiinstitute.com](https://jongleiinstitute.com) and [Cush Analytics.com](https://cushanalytics.com)
+- 📝 I regularly write articles on [jongleiinstitute.com](https://jongleiinstitute.com) and [Alierwai.org](https://alierwai.org)
 
 - 💬 Ask me about **statistics, data science, R Shiny, R, Python, and mathematics**
 

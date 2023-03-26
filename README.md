@@ -1,23 +1,23 @@
 <h1 align="left">Hi 👋, I'm Alier Reng!</h1>
 
 
-- 🔭 I’m currently recording [my first R course](https://jongleiinstitute.com/all-courses/data-analyst-with-r/getting-started-in-r/)
+- 🔭 I’m currently live [my first R course](https://jongleiinstitute.com/all-courses/data-analyst-with-r/getting-started-in-r/)
 
-- 🌱 I’m currently learning **pandas method chaining and differential equations.**
+- 🌱 I’m currently learning **data science with Python.**
 
 - 👯 I’m looking to collaborate on [data science, deep learning & teaching](https://jongleiinstitute.com/)
 
-- 🤝 I’m looking for help with **Django**
+- 🤝 I’m looking for help with **Financial Engineering**
 
-- 📝 I regularly write articles on [jongleiinstitute.com](https://jongleiinstitute.com) and [Alierwai.org](https://alierwai.org)
+- 📝 I regularly write articles on [jongleiinstitute.com](https://jongleiinstitute.com)
 
-- 💬 Ask me about **statistics, data science, R Shiny, R, Python, and mathematics**
+- 💬 Ask me about **statistics, data science, R Shiny, R, Python, financial engineering, and mathematics**
 
-- 📫 How to reach me **info@cushanalytics.com**
+- 📫 How to reach me **info@jongleiinstitute.com**
 
 - 📄 Know about my experiences: [Resume](https://github.com/tongakuot/areng_cv/blob/main/Alier%20Reng%E2%80%99s%20resume.pdf)
 
-- ⚡ Fun fact **web development, learning mathematics and statistics with Python**
+- ⚡ Fun fact **web development, learning mathematics, and statistics with Python**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

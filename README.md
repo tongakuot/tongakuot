@@ -1,11 +1,11 @@
 <h1 align="left">Hi 👋, I'm Alier Reng!</h1>
 
 
-- 🔭 I’m currently live [my first R course](https://jongleiinstitute.com/all-courses/data-analyst-with-r/getting-started-in-r/)
+- 🔭 I’m currently teaching on [YouTube](https://www.youtube.com/channel/UCWmRRNbHLNtbb13Hi1ucsFA)
 
 - 🌱 I’m currently learning **data science with Python.**
 
-- 👯 I’m looking to collaborate on [data science, deep learning & teaching](https://jongleiinstitute.com/)
+- 👯 I’m looking to collaborate on [data science, financial engineering, & machine learning](https://jongleiinstitute.com/)
 
 - 🤝 I’m looking for help with **Financial Engineering**
 

@@ -1,5 +1,4 @@
 <h1 align="left">Hi 👋, I'm Alier Reng!</h1>
-<h3 align="left">Data scientist & educator</h3>
 
 
 - 🔭 I’m currently recording [my first R course](https://jongleiinstitute.com/all-courses/data-analyst-with-r/getting-started-in-r/)

@@ -9,11 +9,11 @@
 
 - 🤝 I’m looking for help with **Financial Engineering**
 
-- 📝 I regularly write articles on [jongleiinstitute.com](https://jongleiinstitute.com)
+- 📝 I regularly write articles on [alierwai.org](https://www.alierwai.org) and [jongleiinstitute.com](https://jongleiinstitute.com)
 
-- 💬 Ask me about **statistics, data science, R Shiny, R, Python, financial engineering, and mathematics**
+- 💬 Ask me about **statistics, data science, R Shiny, R, Python, and mathematics**
 
-- 📫 How to reach me **info@jongleiinstitute.com**
+- 📫 How to reach me **info@alierwai.org**
 
 - 📄 Know about my experiences: [Resume](https://github.com/tongakuot/areng_cv/blob/main/Alier%20Reng%E2%80%99s%20resume.pdf)
 

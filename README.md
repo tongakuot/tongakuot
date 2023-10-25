@@ -5,9 +5,9 @@
 
 - 🌱 I’m currently learning **data science with Python.**
 
-- 👯 I’m looking to collaborate on [data science, financial engineering, & machine learning](https://jongleiinstitute.com/)
+- 👯 I’m looking to collaborate on [data science, & deep learning](https://www.alierwai.org/)
 
-- 🤝 I’m looking for help with **Financial Engineering**
+- 🤝 I’m looking for help with **Deep Learning with PyTorch**
 
 - 📝 I regularly write articles on [alierwai.org](https://www.alierwai.org) and [jongleiinstitute.com](https://jongleiinstitute.com)
 

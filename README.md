@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences: [Resume](https://github.com/tongakuot/areng_cv/blob/main/Alier%20Reng%E2%80%99s%20resume.pdf).
 
-- ⚡ Fun fact:**web development, learning mathematics, and statistics with Python.**
+- ⚡ Fun fact:** web development, learning mathematics, and statistics with Python.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

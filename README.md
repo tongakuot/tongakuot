@@ -1,21 +1,21 @@
 <h1 align="left">Hi 👋, I'm Alier Reng!</h1>
 
 
-- 🔭 I’m currently teaching on [NileQuantum Insights](https://www.youtube.com/@NileQuantumInsights) & [Jonglei Institute of Technology](https://www.youtube.com/@tongakuot)
+- 🔭 I’m currently teaching on [NileQuantum Insights](https://www.youtube.com/@NileQuantumInsights) & [Jonglei Institute of Technology](https://www.youtube.com/@tongakuot).
 
 - 🌱 I’m currently learning **data science with R & Python.**
 
-- 👯 I’m looking to collaborate on [data science & deep learning](https://www.alierwai.org/)
+- 👯 I’m looking to collaborate on [data science & deep learning](https://www.alierwai.org/).
 
-- 🤝 I’m looking for help with **Deep Learning with PyTorch**
+- 🤝 I’m looking for help with **Deep Learning with PyTorch.**
 
-- 📝 I regularly write articles on [NileQuantumInsights.Com](https://www.NileQuantumInsights.Com) and [jongleiinstitute.com](https://jongleiinstitute.com)
+- 📝 I regularly write articles on [NileQuantumInsights.Com](https://www.NileQuantumInsights.Com) and [jongleiinstitute.com](https://jongleiinstitute.com).
 
 - 💬 Ask me about **statistics, data science, R Shiny, R, Python, and mathematics.**
 
 - 📫 How to reach me **info@NileQuantumInsights.Com.**
 
-- 📄 Know about my experiences: [Resume](https://github.com/tongakuot/areng_cv/blob/main/Alier%20Reng%E2%80%99s%20resume.pdf)
+- 📄 Know about my experiences: [Resume](https://github.com/tongakuot/areng_cv/blob/main/Alier%20Reng%E2%80%99s%20resume.pdf).
 
 - ⚡ Fun fact:**web development, learning mathematics, and statistics with Python.**
 

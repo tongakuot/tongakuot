@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Alier Reng!</h1>
 
 
-- 🔭 I’m currently teaching on [NileQuantum Insights](https://www.youtube.com/@NileQuantumInsights) & [Jonglei Institute of Technology](https://www.youtube.com/@tongakuot).
+- 🔭 I’m currently teaching on [Alierwai DataStudio](https://www.youtube.com/@Alierwai DataStudio) & [Jonglei Institute of Technology](https://www.youtube.com/@tongakuot).
 
 - 🌱 I’m currently learning **data science with R & Python.**
 
@@ -23,7 +23,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/tongakuot" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tongakuot" height="30" width="40" /></a>
 <a href="https://kaggle.com/alierreng" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alierreng" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCWmRRNbHLNtbb13Hi1ucsFA" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uct3pkcwad0mc3spb9wi0xnw" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@AlierwaiDataStudio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="uct3pkcwad0mc3spb9wi0xnw" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

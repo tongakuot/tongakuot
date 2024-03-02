@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Alier Reng!</h1>
 
 
-- 🔭 I’m currently teaching on [Alierwai DataStudio](https://www.youtube.com/@Alierwai DataStudio) & [Jonglei Institute of Technology](https://www.youtube.com/@tongakuot).
+- 🔭 I’m currently teaching on [Alierwai DataStudio](https://www.youtube.com/@AlierwaiDataStudio) & [Jonglei Institute of Technology](https://www.youtube.com/@tongakuot).
 
 - 🌱 I’m currently learning **data science with R & Python.**
 

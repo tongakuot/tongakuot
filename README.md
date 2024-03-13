@@ -5,15 +5,15 @@
 
 - 🌱 I’m currently learning **data science with R & Python.**
 
-- 👯 I’m looking to collaborate on [data science & deep learning](https://www.alierwai.org/).
+- 👯 I’m looking to collaborate on [data science & deep learning](https://www.alierwaidatastudio.com/).
 
 - 🤝 I’m looking for help with **Deep Learning with PyTorch.**
 
-- 📝 I regularly write articles on [NileQuantumInsights.Com](https://www.NileQuantumInsights.Com) and [jongleiinstitute.com](https://jongleiinstitute.com).
+- 📝 I regularly write articles on [AlierwaiDataStudio.Com](https://www.AlierwaiDataStudio.Com) and [jongleiinstitute.com](https://jongleiinstitute.com).
 
-- 💬 Ask me about **statistics, data science, R Shiny, R, Python, and mathematics.**
+- 💬 Ask me about **data science, statistics, R Shiny, R, Python, and mathematics.**
 
-- 📫 How to reach me **info@NileQuantumInsights.Com.**
+- 📫 How to reach me at **info@AlierwaiDataStudio.Com.**
 
 - 📄 Know about my experiences: [Resume](https://github.com/tongakuot/areng_cv/blob/main/Alier%20Reng%E2%80%99s%20resume.pdf).
 

@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Alier Reng!</h1>
 
 
-- 🔭 I’m currently offering tutorials on [NileQuantumInsights](https://www.youtube.com/@NileQuantumInsights).
+- 🔭 I share data science tutorials on [NileQuantumInsights](https://www.youtube.com/@NileQuantumInsights) and [Medium.com](https://NileQuantumInsights.com).
 
 - 🌱 I’m currently learning **data science with R & Python.**
 

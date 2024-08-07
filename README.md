@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Alier Reng!</h1>
 
 
-- 🔭 I’m currently teaching on [Alierwai DataStudio](https://www.youtube.com/@AlierwaiDataStudio).
+- 🔭 I’m currently offering tutorials on [NileQuantumInsights](https://www.youtube.com/@NileQuantumInsights).
 
 - 🌱 I’m currently learning **data science with R & Python.**
 
@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Deep Learning with PyTorch.**
 
-- 📝 I regularly write articles on [AlierwaiDataStudio.Com](https://www.AlierwaiDataStudio.Com) and [jongleiinstitute.com](https://jongleiinstitute.com).
+- 📝 I regularly write articles on [AlierwaiDataStudio.Com](https://www.AlierwaiDataStudio.Com) and [NileQuantumInsights.com](https://NileQuantumInsights.com).
 
 - 💬 Ask me about **data science, statistics, R Shiny, R, Python, and mathematics.**
 

@@ -1,16 +1,14 @@
 <h1 align="left">Hi 👋, I'm Alier Reng!</h1>
 
 
-- 🔭 I share data science tutorials on [NileQuantumInsights](https://www.youtube.com/@NileQuantumInsights) and [Medium.com](https://NileQuantumInsights.com).
+- 🔭 I share data science tutorials on [PyStatR+](https://www.youtube.com/@PyStatRPlus), [AlierwaiDataStudio.Com](https://www.AlierwaiDataStudio.Com) and [Medium.com](https://medium.com/@NileQuantumInsights).
 
-- 🌱 I’m currently learning **data science with R & Python.**
+- 🌱 I’m currently learning **Data Science with R and Python.**
 
 - 👯 I’m looking to collaborate on [data science & deep learning](https://www.alierwaidatastudio.com/).
 
 - 🤝 I’m looking for help with **Deep Learning with PyTorch.**
-
-- 📝 I regularly write articles on [AlierwaiDataStudio.Com](https://www.AlierwaiDataStudio.Com) and [NileQuantumInsights.com](https://NileQuantumInsights.com).
-
+  
 - 💬 Ask me about **data science, statistics, R Shiny, R, Python, and mathematics.**
 
 - 📫 How to reach me at **info@AlierwaiDataStudio.Com.**

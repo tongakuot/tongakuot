@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Data Science with R and Python.**
 
-- 👯 I’m looking to collaborate on [data science & deep learning](https://www.alierwaidatastudio.com/).
+- 👯 I’m looking to collaborate on [Data Science & Deep Learning](https://www.alierwaidatastudio.com/).
 
 - 🤝 I’m looking for help with **Deep Learning with PyTorch.**
   
 - 💬 Ask me about **data science, statistics, R Shiny, R, Python, and mathematics.**
 
-- 📫 How to reach me at **info@AlierwaiDataStudio.Com.**
+- 📫 How to reach me at **areng@pystatr.org.**
 
 - 📄 Know about my experiences: [Resume](https://github.com/tongakuot/areng_cv/blob/main/Alier%20Reng%E2%80%99s%20resume.pdf).
 

@@ -1,21 +1,21 @@
 <h1 align="left">Hi 👋, I'm Alier Reng!</h1>
 
 
-- 🔭 I share data science tutorials on [PyStatR+](https://www.youtube.com/@PyStatRPlus), [AlierwaiDataStudio.Com](https://www.AlierwaiDataStudio.Com) and [Medium.com](https://medium.com/@NileQuantumInsights).
+- 🔭 I share data science and generative AI tutorials on [PyStatR+](https://www.youtube.com/@PyStatRPlus), [The Living Dead: Born again in the fire of memory](https://www.alierwai-the-living-dead.us), and [Medium.com](https://medium.com/@PyStatRPlus).
 
-- 🌱 I’m currently learning **Data Science with R and Python.**
+- 🌱 I’m currently teaching **Data Science with R and Python, and Prompt Engineering.**
 
-- 👯 I’m looking to collaborate on [Data Science & Deep Learning](https://www.alierwaidatastudio.com/).
+- 👯 I’m looking to collaborate on [Data Science & AI Communication](https://www.pystatrplus.org/).
 
 - 🤝 I’m looking for help with **Deep Learning with PyTorch.**
   
-- 💬 Ask me about **data science, statistics, R Shiny, R, Python, and mathematics.**
+- 💬 Ask me about **data science, statistics, R Shiny, R, Python, GenAI, and mathematics.**
 
-- 📫 How to reach me at **areng@pystatr.org.**
+- 📫 How to reach me at **areng@pystatrplus.org.**
 
 - 📄 Know about my experiences: [Resume](https://github.com/tongakuot/areng_cv/blob/main/Alier%20Reng%E2%80%99s%20resume.pdf).
 
-- ⚡ Fun fact: **web development, learning mathematics, and statistics with Python.**
+- ⚡ Fun fact: **web development, logo design, learning mathematics, and statistics with Python.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
